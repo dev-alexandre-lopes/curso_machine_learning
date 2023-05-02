@@ -1,6 +1,6 @@
 # Curso Machine Learning
 
-![machine learning](https://user-images.githubusercontent.com/64049906/235558385-3c5fbe7d-8333-4608-a444-c5582164624e.png)
+![machine learning](https://user-images.githubusercontent.com/64049906/235559462-d87b1c02-9bab-462b-a428-b0291f73af2f.png)
 
 **_Machine learning_** é a ciência do desenvolvimento de algoritmos e modelos estatísticos que os sistemas computacionais usam para realizar tarefas sem instruções explícitas, confiando em padrões e inferências.
 
